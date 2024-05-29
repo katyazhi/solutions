@@ -1,0 +1,5 @@
+This text
+contains
+9 words
+5 lines
+45 characters.
