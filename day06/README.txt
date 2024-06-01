@@ -1,4 +1,4 @@
-This programm calculate the proton conductivity of material from experimantal data measured by impedance spectroscopy.
+This programm calculates the proton conductivity of material from experimantal data measured by impedance spectroscopy.
 In the input excel file there are several sheets containing following information:
 1. Temperature of measurements (in the worksheet title)
 2. Hodograph for this temperature represented as a table  
