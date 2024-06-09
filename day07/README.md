@@ -1,4 +1,4 @@
-With this command-line tool you may search and downloads data from the NCBI PubChem Compounds database, which contains information about chemicals.
+With this command-line tool you may search and download data from the NCBI PubChem Compounds database, which contains information about chemicals.
 
 ## Installation
 Download files from day07 folder of this repository to your computer and install required Python packages with the command:
