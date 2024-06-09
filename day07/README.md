@@ -16,7 +16,9 @@ NUMBER is a maximum number of compound profiles to download.
 
 ## Examples:
 `python PubChem_download.py C5H10 4 `
+
 `python PubChem_download.py aspirine 2`
+
 `python PubChem_download.py 2-aminoethanol 4`
 
 ## Output
