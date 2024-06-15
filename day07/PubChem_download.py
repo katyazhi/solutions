@@ -34,7 +34,7 @@ def search_journal(term, number, total):
 
 def main():
     if len(sys.argv) !=3:
-        exit("Usage: {sys.argv[0]} TERM NUMBER")
+        exit(f"Usage: {sys.argv[0]} TERM NUMBER")
     term = sys.argv[1]
     number = sys.argv[2]
     records = compound_search(term, number)
