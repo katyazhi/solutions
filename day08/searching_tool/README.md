@@ -1,4 +1,4 @@
-With this command-line tool you may search and download data from the NCBI PubChem Compounds[https://pubchem.ncbi.nlm.nih.gov/docs/compounds] or NCBI PubChem Substunces[https://pubchem.ncbi.nlm.nih.gov/docs/substances] database.
+With this command-line tool you may search and download data from the [NCBI PubChem Compounds](https://pubchem.ncbi.nlm.nih.gov/docs/compounds) or [NCBI PubChem Substunces](https://pubchem.ncbi.nlm.nih.gov/docs/substances) database.
 
 ## Installation
 Download files from searching_tool folder of this repository to your computer and install required Python packages with the command:
