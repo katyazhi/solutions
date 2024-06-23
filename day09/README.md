@@ -1,6 +1,6 @@
 With this programm you can analyze DNA sequences in FASTA or GeneBank formats. The functionalities of this programm include:
-*finding the longest duplicated subsequence 
-*finding the length of the longest subsequence of repeated А
+1. finding the longest duplicated subsequence.
+2. finding the length of the longest subsequence of repeated А.
 
 ## Installation
 Download files from day09 folder of this repository to your computer and install required Python packages with the command:
