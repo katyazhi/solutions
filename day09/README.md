@@ -16,12 +16,12 @@ where:
 
 positional arguments:
 
-file                         Path to FASTA/GeneBank file
+file : Path to FASTA/GeneBank file
 
 options:
 
--h, --help                   show this help message and exit
+-h, --help  : show this help message and exit
 
---duplicate                  Find the longest repeated sub-sequence
+--duplicate : Find the longest repeated sub-sequence
 
---repeated_A                 Find the number of repeated A
+--repeated_A : Find the number of repeated A
